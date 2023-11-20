@@ -11,7 +11,7 @@
 - <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/FR-France-Flag-icon.png" width="16" height="16"> **Capitole du Libre**, 19/11/2023
   - _slides:_ [placeholder]()
   - _video:_ [placeholder]()
-  - [website](https://pretalx.com/hack-lu-2023/talk/Q9JHXM/)
+  - [website](https://cfp.capitoledulibre.org/cdl-2023/talk/GAU7KT/)
 - <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/GB-United-Kingdom-Flag-icon.png" width="16" height="16"> **Hack.lu**, 18/10/2023
   - _slides:_ [placeholder]()
   - _video:_ [youtube](https://www.youtube.com/watch?v=odUvmS5lDm4)
