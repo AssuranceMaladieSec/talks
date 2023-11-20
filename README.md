@@ -3,7 +3,7 @@ You will find in this repository:
 - **slides** of the talks that have been given by Assurance Maladie Security teams members in various Security conferences.
 - **links to video recording** of these talks when available.
 
-Vous retrouverez dans ce dépôt :
+<img href="/blob/main/images/FR-France-Flag-icon.png"> Vous retrouverez dans ce dépôt :
 - **les diaporamas** des interventions qui ont été données par des membres des équipes Sécurité de l'Assurance Maladie dans diverses conférences Sécurité.
 - **les liens vers les enregistrements vidéos** quand ceux-ci existent.
 
