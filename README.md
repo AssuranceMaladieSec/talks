@@ -1,7 +1,7 @@
 # Talks | Conférences
-<img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/GB-United-Kingdom-Flag-icon.png" width="16" height="16"> You will find in this repository **slides** of the talks that have been given by [Assurance Maladie Security teams](https://assurancemaladiesec.github.io/en/) members in various Security conferences. You will also find **links to video recording** of these talks when available.
+<img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/GB-United-Kingdom-Flag-icon.png" width="16" height="16"> You will find in this repository **slides** of the public talks that have been delivered by [Assurance Maladie Security teams](https://assurancemaladiesec.github.io/en/) members in various Security conferences. You will also find **links to video recording** of these talks when available.
 
-<img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/FR-France-Flag-icon.png" width="16" height="16"> Vous retrouverez dans ce dépôt **les diaporamas** des interventions qui ont été données par des membres des [équipes Sécurité de l'Assurance Maladie](https://assurancemaladiesec.github.io/fr/) dans diverses conférences Sécurité. Vous trouverez aussi les **liens vers les enregistrements vidéos** quand ceux-ci sont disponibles.
+<img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/FR-France-Flag-icon.png" width="16" height="16"> Vous retrouverez dans ce dépôt **les diaporamas** des interventions publiques qui ont été données par des membres des [équipes Sécurité de l'Assurance Maladie](https://assurancemaladiesec.github.io/fr/) dans diverses conférences Sécurité. Vous trouverez aussi les **liens vers les enregistrements vidéos** quand ceux-ci sont disponibles.
 
 ## 2023
 - <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/FR-France-Flag-icon.png" width="16" height="16"> _"ACME, Bénéfices du déploiement d’un protocole Internet de Sécurité en réseaux privés"_
