@@ -16,3 +16,12 @@
 
 - <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/FR-France-Flag-icon.png" width="16" height="16"> Rump/lightning talk _"ACME en réseau privé"_
   <br> **[SSTIC](https://www.sstic.org/2023/presentation/rumps_2023/)**, 08/06/2023. 3min. <a href="https://github.com/AssuranceMaladieSec/talks/blob/main/talks/2023-06-SSTIC-RUMP-ACME-en-r%C3%A9seau-priv%C3%A9.pdf"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/16/Apps-Pdf-icon.png" width="16" height="16"></a> <a href="https://static.sstic.org/rumps2023/SSTIC_2023-06-08_P12_RUMPS_03.mp4"><img src="https://icons.iconarchive.com/icons/martz90/circle/16/video-camera-icon.png" width="16" height="16"></a>
+
+## 2019
+- <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/FR-France-Flag-icon.png" width="16" height="16"> _"Certificate Transparency & threats detection, 24 months later"_
+  <br> **[Toulouse Hacking Convention](https://19.thcon.fr/)**, 08/03/2019. 50min. <a href="https://github.com/AssuranceMaladieSec/talks/blob/main/talks/2019-03-CT-threats-monitoring-a-24-months-story.pdf"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/16/Apps-Pdf-icon.png" width="16" height="16"></a> <a href="https://youtu.be/rUOQE-2NG3Y?t=11486"><img src="https://icons.iconarchive.com/icons/martz90/circle/16/video-camera-icon.png" width="16" height="16"></a>
+  <br>_Note : slides are written in EN and talk is delivered in FR._
+
+## 2018
+- <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/FR-France-Flag-icon.png" width="16" height="16"> _"Certificate Transparency ou comment un nouveau standard peut aider votre veille sur certaines menaces"_
+  <br> **[SSTIC](https://www.sstic.org/2023/presentation/rumps_2023/)**, 13/06/2023. 15min. <a href="https://github.com/AssuranceMaladieSec/talks/blob/main/talks/2018-06-SSTIC-presentation-Certificate-Transparency.pdf"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/16/Apps-Pdf-icon.png" width="16" height="16"></a> <a href="https://static.sstic.org/videos2018/SSTIC_2018-06-13_P04.mp4"><img src="https://icons.iconarchive.com/icons/martz90/circle/16/video-camera-icon.png" width="16" height="16"></a>
