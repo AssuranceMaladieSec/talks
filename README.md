@@ -1,11 +1,11 @@
 # Talks | Conférences
 <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/GB-United-Kingdom-Flag-icon.png" width="16" height="16"> You will find in this repository **slides** of the talks that have been given by [Assurance Maladie Security teams](https://assurancemaladiesec.github.io/en/) members in various Security conferences. You will also find **links to video recording** of these talks when available.
 
-<img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/FR-France-Flag-icon.png" width="16" height="16"> Vous retrouverez dans ce dépôt **les diaporamas** des interventions qui ont été données par des membres des [équipes Sécurité de l'Assurance Maladie](https://assurancemaladiesec.github.io/fr/) dans diverses conférences Sécurité. Vous trouverez aussi les **liens vers les enregistrements vidéos** quand ceux-ci existent.
+<img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/FR-France-Flag-icon.png" width="16" height="16"> Vous retrouverez dans ce dépôt **les diaporamas** des interventions qui ont été données par des membres des [équipes Sécurité de l'Assurance Maladie](https://assurancemaladiesec.github.io/fr/) dans diverses conférences Sécurité. Vous trouverez aussi les **liens vers les enregistrements vidéos** quand ceux-ci sont disponibles.
 
 ## 2023
 - <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/FR-France-Flag-icon.png" width="16" height="16"> _"ACME, Bénéfices du déploiement d’un protocole Internet de Sécurité en réseaux privés"_
-<br> **[Capitole du Libre](https://cfp.capitoledulibre.org/cdl-2023/talk/GAU7KT/)**, 19/11/2023. 50min. <a href="2023-11-Capitole_du_Libre-ACME-bénéfices-du-déploiement-dun-protocole-Internet-de-Sécurité-en-réseaux-privés.pdf"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/16/Apps-Pdf-icon.png" width="16" height="16"></a>
+<br> **[Capitole du Libre](https://cfp.capitoledulibre.org/cdl-2023/talk/GAU7KT/)**, 19/11/2023. 50min. <a href="https://github.com/AssuranceMaladieSec/talks/blob/main/talks/2023-11-Capitole_du_Libre-ACME-b%C3%A9n%C3%A9fices-du-d%C3%A9ploiement-dun-protocole-Internet-de-S%C3%A9curit%C3%A9-en-r%C3%A9seaux-priv%C3%A9s.pdf"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/16/Apps-Pdf-icon.png" width="16" height="16"></a>
 <br> _Note : talk recorded, publication is coming | Enregistrée, en attente de publication._
 
 - <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/GB-United-Kingdom-Flag-icon.png" width="16" height="16"> _"ACME: benefits of deploying an Internet Security protocol inside your corporate network"_
