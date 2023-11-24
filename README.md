@@ -1,3 +1,7 @@
+<center>
+<img href="https://assurancemaladiesec.github.io/images/logo.jpg">
+</center>
+
 # Talks | Conférences
 <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/GB-United-Kingdom-Flag-icon.png" width="16" height="16"> You will find in this repository **slides** of the public talks that have been delivered by [Assurance Maladie Security teams](https://assurancemaladiesec.github.io/en/) members in various Security conferences. You will also find **links to  recording** of these talks when available.
 
