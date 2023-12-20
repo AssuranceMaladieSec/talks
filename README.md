@@ -23,7 +23,7 @@
 
 ## 2019
 - <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/FR-France-Flag-icon.png" width="16" height="16"> _"Certificate Transparency & threats detection, 24 months later"_
-  <br> **[Toulouse Hacking Convention](https://19.thcon.fr/)**, 08/03/2019. 50min. <a href="https://github.com/AssuranceMaladieSec/talks/blob/main/talks/2019-03-CT-threats-monitoring-a-24-months-story.pdf"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/16/Apps-Pdf-icon.png" width="16" height="16"></a> <a href="https://youtu.be/rUOQE-2NG3Y?t=11486"><img src="https://icons.iconarchive.com/icons/martz90/circle/16/video-camera-icon.png" width="16" height="16"></a>
+  <br> **[Toulouse Hacking Convention](https://19.thcon.fr/)**, 08/03/2019. 50min. <a href="https://github.com/AssuranceMaladieSec/talks/blob/main/talks/2019-03-THC-CT-threats-monitoring-a-24-months-story.pdf"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/16/Apps-Pdf-icon.png" width="16" height="16"></a> <a href="https://youtu.be/rUOQE-2NG3Y?t=11486"><img src="https://icons.iconarchive.com/icons/martz90/circle/16/video-camera-icon.png" width="16" height="16"></a>
   <br>_Note : slides are written in EN and talk is delivered in FR._
 
 ## 2018
